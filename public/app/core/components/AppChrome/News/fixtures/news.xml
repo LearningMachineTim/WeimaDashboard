@@ -6,7 +6,7 @@
     <atom:link href="https://www.example.net/feed" rel="self" type="application/rss+xml" />
     <link>https://www.example.net</link>
     <description>A small description of this feed</description>
-    <language>en-US</language>
+    <language>de-DE</language>
     <item>
       <title>A fake item</title>
       <link>https://www.example.net/2022/02/10/something-fake/</link>

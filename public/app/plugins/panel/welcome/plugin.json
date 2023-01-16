@@ -2,10 +2,8 @@
   "type": "panel",
   "name": "Welcome",
   "id": "welcome",
-
   "skipDataQuery": true,
   "hideFromList": true,
-
   "info": {
     "author": {
       "name": "Grafana Labs",

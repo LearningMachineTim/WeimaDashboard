@@ -12,7 +12,7 @@ function pseudoizeJsonReplacer(key, value) {
   return value;
 }
 
-fs.readFile('./public/locales/en-US/grafana.json').then((enJson) => {
+fs.readFile('./public/locales/de-DE/grafana.json').then((enJson) => {
   const enMessages = JSON.parse(enJson);
   const pseudoJson = JSON.stringify(enMessages, pseudoizeJsonReplacer, 2);
 

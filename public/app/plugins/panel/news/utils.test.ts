@@ -64,6 +64,6 @@ const grafana20191216 = {
   description: 'Recent content in Blog on Grafana Labs',
   generator: 'Hugo -- gohugo.io',
   link: 'https://grafana.com/blog/',
-  language: 'en-us',
+  language: 'de-DE',
   lastBuildDate: 'Fri, 13 Dec 2019 00:00:00 +0000',
 } as Feed;
