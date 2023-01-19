@@ -5,7 +5,7 @@
       "datasource": null,
       "folderId": 0,
       "gridPos": {
-        "h": 12,
+        "h": 24,
         "w": 24,
         "x": 0,
         "y": 4
@@ -16,7 +16,7 @@
       "links": [],
       "options": {},
       "query": "",
-      "recent": false,
+      "recent": true,
       "search": false,
       "starred": true,
       "tags": [],
